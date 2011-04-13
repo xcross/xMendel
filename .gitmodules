@@ -1,0 +1,24 @@
+[submodule "software"]
+	path = software
+	url = git://github.com/reprap/software.git
+[submodule "electronics"]
+	path = electronics
+	url = git://github.com/reprap/electronics.git
+[submodule "PrusaMendel"]
+	path = PrusaMendel
+	url = git://github.com/prusajr/PrusaMendel.git
+[submodule "RepRapCalculator"]
+	path = RepRapCalculator
+	url = git://github.com/prusajr/RepRapCalculator.git
+[submodule "RepRapUltimakerFirmware"]
+	path = RepRapUltimakerFirmware
+	url = git://github.com/prusajr/RepRapUltimakerFirmware.git
+[submodule "ReplicatorG-Erik5D"]
+	path = ReplicatorG-Erik5D
+	url = git://github.com/prusajr/ReplicatorG-Erik5D.git
+[submodule "EtheRep"]
+	path = EtheRep
+	url = https://github.com/prusajr/EtheRep.git
+[submodule "Tonokip-Firmware"]
+	path = Tonokip-Firmware
+	url = git://github.com/prusajr/Tonokip-Firmware.git
